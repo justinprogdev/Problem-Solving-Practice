@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1", "ConsoleApp1\Practice1.csproj", "{52A32F94-6BEB-4CD5-8B66-A3513BBE945E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B072A02F-CA49-48FE-B168-DC6F0C0E08C9}"
+	ProjectSection(SolutionItems) = preProject
+		txt.txt = txt.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2", "ChineseBox2\Practice2.csproj", "{EA611ABA-68E0-49D9-9F82-68B6376572AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A32F94-6BEB-4CD5-8B66-A3513BBE945E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A32F94-6BEB-4CD5-8B66-A3513BBE945E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A32F94-6BEB-4CD5-8B66-A3513BBE945E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A32F94-6BEB-4CD5-8B66-A3513BBE945E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA611ABA-68E0-49D9-9F82-68B6376572AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA611ABA-68E0-49D9-9F82-68B6376572AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA611ABA-68E0-49D9-9F82-68B6376572AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA611ABA-68E0-49D9-9F82-68B6376572AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E07175-EB66-4C82-A71F-20064B8B3FF0}
+	EndGlobalSection
+EndGlobal
