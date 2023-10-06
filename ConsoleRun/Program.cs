@@ -2,8 +2,6 @@
 
 class MalwareAnalysis
 {
-
-
     public static int[] Simulate(int[] entries)
     {
         int[] result = new int[entries.Length];
@@ -62,6 +60,7 @@ class MalwareAnalysis
 
     public static void Main(string[] args)
     {
+        // Simulate malware analysis
         int[] records = new int[] { 19, 2, 0, 87, 1, 40, 80, 77, 77, 77, 77 };
         var result = Simulate(records);
         Console.WriteLine(string.Join(", ", result));
